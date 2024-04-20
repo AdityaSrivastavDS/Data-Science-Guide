@@ -4,6 +4,12 @@
     
 </head>
 <style>
+    body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+            background-color: #f0f0f0; /* Optional: Set background color */
+        }
     img {
             max-width: 100%;
             height: auto;
