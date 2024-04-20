@@ -3,6 +3,14 @@
 <head>
     
 </head>
+<style>
+    img {
+            max-width: 100%;
+            height: auto;
+            margin-top: 20px;
+            background-color: transparent; /* Set image background to transparent */
+        }
+</style>
 <body>
 
 <h1>Data Science Guide Repository</h1>
