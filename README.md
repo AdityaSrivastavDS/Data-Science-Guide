@@ -8,7 +8,7 @@
 
 <h1>Data Science Guide Repository</h1>
 <p>Welcome to the Data Science Guide Repository! This repository contains comprehensive resources and examples to help you learn Data Science concepts and tools.</p>
-<img src = "https://w7.pngwing.com/pngs/338/951/png-transparent-data-science-analytics-r-data-analysis-data-science-blue-text-trademark.png">
+<img src = "Data Science.png">
 
 <h2>Folders:</h2>
 <ul>
