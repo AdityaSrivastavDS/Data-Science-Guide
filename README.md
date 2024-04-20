@@ -3,25 +3,13 @@
 <head>
     
 </head>
-<style>
-    body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 20px;
-            background-color: #f0f0f0; /* Optional: Set background color */
-        }
-    img {
-            max-width: 100%;
-            height: auto;
-            margin-top: 20px;
-            background-color: transparent; /* Set image background to transparent */
-        }
-</style>
+
 <body>
 
 <h1>Data Science Guide Repository</h1>
 <p>Welcome to the Data Science Guide Repository! This repository contains comprehensive resources and examples to help you learn Data Science concepts and tools.</p>
-<img src = "https://e7.pngegg.com/pngimages/159/788/png-clipart-data-science-data-analysis-business-analyst-machine-learning-text-logo.png">
+<img src = "![image](https://github.com/AdityaSrivastavDS/Data-Science-Guide/assets/114422969/5382295a-1ace-4699-abc5-901d8e6b09f9)
+">
 
 <h2>Folders:</h2>
 <ul>
